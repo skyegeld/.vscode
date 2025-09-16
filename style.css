@@ -5,3 +5,21 @@ p{color:brown;}
 #love{color:blueviolet}
 
 .barbie{background-color: aquamarine;}
+
+.pic {width:100px;
+height:auto;}
+
+.milo{text-decoration: underline green;
+text-align:center;
+float:center;
+font-variant:small-caps;
+font-style:italic; 
+font-size:large;
+letter-spacing:normal;
+line-height:3; 
+}
+
+ .body{font-family:times 'Times New Roman', Times, serif; 
+background-image:url('https://www.publicdomainpictures.net/pictures/270000/t2/light-bright-purple-background.jpg');
+
+}
