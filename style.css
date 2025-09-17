@@ -1,5 +1,16 @@
 .title {font-size:large;
-font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+.body{background-color:grey;
 text-align:center}
 
-.body{background-color:grey;}
+.grid{border:1px,solid,blue;
+background-color:white;text-align:center;
+border-collapse:collapse;
+padding:20px;
+margin:auto}
+
+table{width:20px;
+padding:10px;
+margin:10px;
+border:10px;}
